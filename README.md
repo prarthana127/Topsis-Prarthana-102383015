@@ -28,6 +28,7 @@ topsis.py data.csv "1,0,1,0,1" "+,-,+,-,+" output.csv
 ![Screenshot 2025-01-18 120924](https://github.com/user-attachments/assets/6db1365f-5681-4d65-9064-d64a9bc47b1a)
 
 ## Output
-![Screenshot 2025-01-18 121833](https://github.com/user-attachments/assets/7e15bc88-a0de-48cb-80ef-6071567fb236)
+![Screenshot 2025-01-18 120825](https://github.com/user-attachments/assets/0d806180-6b2a-498c-be85-e600a877ca4e)
+
 
 
